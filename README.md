@@ -6,7 +6,7 @@ Collected historical data on different crypto exchanges in order to identify if 
 **Conclusion here**
 
 ---
-## Please navigate to [Crypto Arbitrage Analysis](https://github.com/Brock-Denton/Loan_Qualifier_Application/tree/main/loan_qualifier_app)
+## Please navigate to [Crypto Arbitrage Analysis](https://github.com/Brock-Denton/crypto_arbitrage/blob/main/crypto_arbitrage.ipynb)
 ---
 ## Contributor
 ### Brock Denton, Brockchecksmail@gmail.com 
